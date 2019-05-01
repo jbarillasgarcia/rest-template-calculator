@@ -34,6 +34,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+	 <dependency>
+	  <groupId>${project.groupId}</groupId>
+	  <artifactId>rest-template-calculator-core</artifactId>
+	  <version>1.0</version>
+	 </dependency>
 	</dependencies>
 
 	<build>
