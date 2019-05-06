@@ -1,7 +1,4 @@
 # Rest Template Calculator
-RestTemplate calculator sample.
-
-### Descripcion
 The Rest Template Calculator sample application comprises the following modules:
 
 - Core
