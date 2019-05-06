@@ -5,11 +5,11 @@ The Rest Template Calculator sample application comprises the following modules:
 - Backend
 - Frontend
 
-### Core
+### Core Module
 This module includes common componentes to all other modules.
 
-### Backend
+### Backend Module
 This module implements RESTful services for basic arithmethic operations and memory administration.  The services are available under port 8085.
 
-### Frontend
+### Frontend Module
 This module implements a graphical user interface which consumes some of the RESTful services available in the backend module.
